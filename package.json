@@ -1,0 +1,25 @@
+{
+  "name": "test-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YakirBar/test-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YakirBar/test-nodejs/issues"
+  },
+  "homepage": "https://github.com/YakirBar/test-nodejs#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
